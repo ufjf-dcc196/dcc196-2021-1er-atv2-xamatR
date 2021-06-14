@@ -1,0 +1,2 @@
+rootProject.name = "Zoro01"
+include ':app'
